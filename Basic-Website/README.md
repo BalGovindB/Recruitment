@@ -37,15 +37,3 @@ For the design, I went with a clean, minimal look: warm off-white background, a 
 **Flexbox Froggy — completed:**
 
 ![Flexbox Froggy completion](flexbox-froggy-complete.png)
-
-**Todo app — adding and completing tasks:**
-
-![Todo app main view](todo-main.png)
-
-**Todo app — filters:**
-
-![Todo app filters](todo-filters.png)
-
-**Todo app — editing and deleting:**
-
-![Todo app edit and delete](todo-edit-delete.png)
